@@ -5,3 +5,5 @@
 ![](./first_todo_ss2.jpg)
 ### State did not change after rotating the screen
 ![](./first_todo_ss3.jpg)
+### GIF
+![GIF](todofirstgif.gif)
